@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 36px;
+    color: aqua;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: blanchedalmond;
+}
+
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+}
+
