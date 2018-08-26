@@ -1,4 +1,7 @@
-# practicing test-repo
-This is a test repo. 
+# My Roller Coaster Project Website
 
-Day 1: Reviewing Git, making push to repo.
+This is my very first website featuring a paper roller coaster I made.
+
+For my website we used HTML and CSS.
+
+Thanks for visiting! 
